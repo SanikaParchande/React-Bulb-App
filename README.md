@@ -47,8 +47,7 @@ npm run dev
 Open http://localhost:5173 in your browser
 
 ## 📁 Folder Structure
-csharp
-Copy code
+
 React-Bulb-App/
  ├── src/
  │   ├── components/      # Reusable UI components
