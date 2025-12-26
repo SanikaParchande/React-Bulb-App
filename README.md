@@ -63,14 +63,17 @@ http://localhost:5173
 ---
 
 ## 📁 Folder Structure
-text
-Copy code
+
 src/
  ├── components/      # Reusable UI components
+ │   ├── Header.jsx
+ │   ├── Footer.jsx
+ │   └── [Other components]
  ├── App.jsx          # Root component
  ├── main.jsx         # Entry point
 public/
-package.json
+ ├── index.html       # Main HTML file
+package.json          # Project configuration and dependencies
 
 ---
 
