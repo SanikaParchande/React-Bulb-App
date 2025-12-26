@@ -1,30 +1,28 @@
-# React Practice Project ⚛️
+# React Bulb App ⚛️
 
 ## 📖 Project Description
-This repository contains a simple React.js project developed during my React learning journey.  
-The goal of this project is to understand how React works internally and to practice building user interfaces using a **component-based architecture**.
+The **React Bulb App** is a beginner-friendly frontend project built using **React.js**.  
+It demonstrates the core concepts of React, including **functional components, state management, and event handling**, by simulating a simple interactive light bulb that can be toggled **ON** or **OFF**.  
 
-The project focuses on **clarity, readability, and correct usage of React fundamentals** rather than complex functionality.
-
----
-
-## 🧠 What I Learned
-- Understanding React project structure  
-- Creating and using functional components  
-- Passing data using props  
-- Managing component state  
-- Basic styling in React  
-- Running and debugging a React application  
+This project focuses on **clarity, readability, and proper use of React fundamentals** rather than complex functionality.
 
 ---
 
 ## 🧰 Tech Stack
-- **React.js**  
-- **JavaScript (ES6+)**  
-- **HTML5**  
-- **CSS3**  
-- **Node.js**  
-- **npm**  
+- **React.js** – Frontend library for building UI components  
+- **JavaScript (ES6+)** – Logic and interactivity  
+- **HTML5 & CSS3** – Structure and styling  
+- **Node.js & npm** – Development environment  
+
+---
+
+## 🧠 Key Learning Outcomes
+- Understanding React project structure  
+- Creating and using functional components  
+- Passing data through props  
+- Managing component state  
+- Handling user events  
+- Running and debugging React applications  
 
 ---
 
@@ -35,49 +33,60 @@ The project focuses on **clarity, readability, and correct usage of React fundam
 - npm package manager  
 
 ### Steps to Run Locally
-1. **Clone the repository**:
+1. **Clone the repository**
 ```bash
 git clone https://github.com/SanikaParchande/React-Bulb-App.git
-Navigate to the project directory:
+Navigate to the project directory
 
 bash
 Copy code
 cd React-Bulb-App
-Install project dependencies:
+Install dependencies
 
 bash
 Copy code
 npm install
-Start the development server:
+Start the development server
 
 bash
 Copy code
 npm run dev
-Open the application in your browser:
+Open the application in your browser
 
-arduino
+
 Copy code
 http://localhost:5173
-📁 Folder Structure
-text
-Copy code
-src/
- ├── components/      # Reusable UI components
- ├── App.jsx          # Root component
- ├── main.jsx         # Entry point
-public/
-package.json
-🎯 Project Objective
+
+---
+
+## 📁 Project Structure
+
+React-Bulb-App/
+ ├── src/
+ │   ├── components/      # Reusable UI components
+ │   ├── App.jsx          # Root component
+ │   └── main.jsx         # Entry point
+ ├── public/              # Static files
+ └── package.json
+
+---
+
+## 🎯 Project Objectives
 Strengthen React fundamentals
 
-Gain confidence in frontend development
+Gain hands-on frontend development experience
 
 Prepare for more advanced React and full-stack projects
 
-👨‍💻 Author
+---
+
+## 👨‍💻 Author
 Sanika Parchande
 Computer Science Engineering Student
 Aspiring Software Developer
 
-📌 Note
+---
+
+## 📌 Note
 This is a beginner-level project created for learning and practice purposes.
+
